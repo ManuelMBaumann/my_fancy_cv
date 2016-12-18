@@ -1,0 +1,5 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[1] Config.pm:346> INFO - Logfile is 'baumann.blg.blg'
+[66] biber:290> INFO - === Sa Dez 17, 2016, 19:21:30
+[158] Utils.pm:165> ERROR - Cannot find control file 'baumann.blg.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[158] Biber.pm:113> INFO - ERRORS: 1
