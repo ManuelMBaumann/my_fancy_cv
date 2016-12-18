@@ -211,7 +211,7 @@
 
 \newenvironment{cvcolumn}[1]{\begin{minipage}[t]{#1}\raggedright}{\end{minipage}}
 
-\RequirePackage[backend=biber,style=authoryear,sorting=ydnt]{biblatex}
+\RequirePackage[backend=biber,style=authoryear,sorting=ydnt,maxbibnames=99]{biblatex}
 \defbibheading{pubtype}{\cvsubsection{#1}}
 \renewcommand{\bibsetup}{\vspace*{-\baselineskip}}
 \AtEveryBibitem{\makebox[\bibhang][l]{\itemmarker}}
