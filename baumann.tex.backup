@@ -88,27 +88,26 @@
 %% \cvsection title in the "main" bar.
 \cvsection[mmayer-p1sidebar]{Experience}
 
-\cvevent{Doctoral Candidate}{Delft University of Technology}{July 2013 -- Ongoing}{Delft, NL}
+\cvevent{PhD candidate}{Delft University of Technology}{July 2013 -- Ongoing}{Delft, NL}
 \begin{itemize}
-\item Thesis titel: \textit{Fast Iterative Solution of the Time-Harmonic Elastic Wave Equation at Multiple Frequencies}
-\item Scientific supervision: Martin B. Van Gijzen (TU Delft) and Ren\'e-\'Edouard  Plessix (Shell International)
-\item My research interests include: Numerical Linear Algebra, Model-Order Reduction, Optimal Control and Parallel Programming
+\item Led the \$5 billion acquisition of the company with Verizon -- the entity which believed most in the immense value Yahoo!\ has created
+\item Acquired Tumblr for \$1.1 billion and moved the company's blog there
+\item Built Yahoo's mobile, video and social businesses from nothing in 2011 to \$1.6 billion in GAAP revenue in 2015
+% \item Tripled the company's mobile base to over 600 million monthly active users and generated over \$1 billion of mobile advertising revenue last year
 \end{itemize}
 
 \divider
 
-\cvevent{Student Research Assistant}{Technical University of Berlin}{Oct 2009 -- Aug 2011}{Berlin, GER}
+\cvevent{Vice President of Location \& Services}{Google}{Oct 2010 -- July 2012}{Palo Alto, CA}
 \begin{itemize}
-\item Modelling, Simulation, and Control of Drop Size Distributions in Stirred Liquid/Liquid Systems
+\item Position Google Maps as the world leader in mobile apps and navigation
+\item Oversaw 1000+ engineers and product managers working on Google Maps, Google Places and Google Earth
 \end{itemize}
 
 \divider
 
-\cvevent{Internship as Scientific Programmer}{German Aerospace Center}{June 2009 -- Sep 2009}{Braunschweig, GER}
-\begin{itemize}
-\item Coupled Flow-Structure Simulations with MPI
-% \item Oversaw 1000+ engineers and product managers working on Google Maps, Google Places and Google Earth
-\end{itemize}
+\cvevent{Vice President of Search Products \& UX}{Google}{2005 --  2010}{Palo Alto, CA}
+
 % \divider
 % 
 % \cvevent{Product Manager \& UI Lead}{Google}{Oct 2001 -- July 2005}{Palo Alto, CA}
@@ -144,19 +143,19 @@
 
 \cvsection{Education}
 
-\cvevent{M.S.\ in Applied Mathematics \small{\ (double degree program)}}{Delft University of Technology}{Aug 2011 -- June 2013}{Delft, NL}
+\cvevent{M.S.\ in Computer Science}{Stanford University}{Sept 1997 -- June 1999}{}
 
 \divider
 
-\cvevent{M.S.\ in Scientific Computing \small{\ (double degree program)}}{KTH Royal Institute of Technology}{Aug 2011 -- June 2013}{Stockholm, SE}
+\cvevent{M.S.\ in Computer Science}{Stanford University}{Sept 1997 -- June 1999}{}
 
 \divider
 
-\cvevent{B.S.\ in Mathematics}{Technical University of Berlin}{Oct 2008 -- Aug 2011}{Berlin, GER}
+\cvevent{B.S.\ in Symbolic Systems}{Stanford University}{Sept 1993 -- June 1997}{}
 
 \divider
 
-\cvevent{B.S.\ in Engineering Science}{Technical University of Berlin}{Oct 2007 - March 2011}{Berlin, GER}
+\cvevent{B.S.\ in Symbolic Systems}{Stanford University}{Sept 1993 -- June 1997}{}
 
 
 \clearpage
@@ -165,28 +164,14 @@
 
 \nocite{*}
 
-% \printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
-% 
-% \divider
+\printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+
+\divider
 
 \printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Journal Articles}}, type=article]
 
 \divider
 
-\printbibliography[heading=pubtype,title={\printinfo{\faHourglassEnd}{Technical Reports}},type=report]
-
-\divider
-
 \printbibliography[heading=pubtype,title={\printinfo{\faGroup}{Conference Proceedings}},type=inproceedings]
-
-
-% \divider
-% 
-% \printbibliography[heading=pubtype,title={\printinfo{\faHourglassEnd}{Thesis}},type=phdthesis]
-
-  
-  
-  
-  
 
 \end{document}

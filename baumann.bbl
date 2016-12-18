@@ -19,169 +19,311 @@
 
 \refsection{0}
   \sortlist[entry]{ydnt/global/}
-    \entry{zou2013bilingual}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,hash=1fe8a381b066fbffc3aaf33e2166969f}{%
-           family={Zou},
-           family_i={Z\bibinitperiod},
-           given={Will\bibnamedelima Y},
-           given_i={W\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-        {{uniquename=0,hash=d5670b2600fea169724521e252d9d09d}{%
-           family={Socher},
-           family_i={S\bibinitperiod},
-           given={Richard},
-           given_i={R\bibinitperiod}}}%
-        {{uniquename=0,hash=05ec2ae5db5154d27c286a2c542f0236}{%
-           family={Cer},
-           family_i={C\bibinitperiod},
-           given={Daniel\bibnamedelima M},
-           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{uniquename=0,hash=1261894eaefc186bfeabf336e05e6294}{%
-           family={Manning},
-           family_i={M\bibinitperiod},
-           given={Christopher\bibnamedelima D},
-           given_i={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-      }
-      \strng{namehash}{7df4400d14f7e32bc19aabacbaada139}
-      \strng{fullhash}{e4c855689bc1b1cc1e51f682a1e5b149}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelyear}{2013}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{EMNLP}
-      \field{title}{Bilingual Word Embeddings for Phrase-Based Machine Translation.}
-      \field{year}{2013}
-      \field{pages}{1393\bibrangedash 1398}
-      \range{pages}{6}
-    \endentry
-    \entry{Codishetal2000}{article}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=0570324271bcfb0fda7a6d2226fa5130}{%
-           family={Codish},
-           family_i={C\bibinitperiod},
-           given={M.},
+    \entry{BG16}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=65208e6578bb7de220018df8e565bab2}{%
+           family={Baumann},
+           family_i={B\bibinitperiod},
+           given={Manuel},
            given_i={M\bibinitperiod}}}%
-        {{uniquename=0,hash=0ad1d43902e3b4f8f28818668be5305b}{%
-           family={Marriott},
-           family_i={M\bibinitperiod},
-           given={K.},
-           given_i={K\bibinitperiod}}}%
-        {{uniquename=0,hash=51be7f68bd80b19fd636299ec3cc02b2}{%
-           family={Taboch},
-           family_i={T\bibinitperiod},
-           given={C.K.},
-           given_i={C\bibinitperiod}}}%
+        {{uniquename=0,hash=0b3aca9b1e9ec03c2016bfa7cc8c5d20}{%
+           family={Van\bibnamedelima Gijzen},
+           family_i={V\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Martin\bibnamedelima B.},
+           given_i={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
-      \strng{namehash}{949f2b03443f734d7959473ca70463ab}
-      \strng{fullhash}{949f2b03443f734d7959473ca70463ab}
+      \strng{namehash}{0e21d46e8b5a0105dbf902b9fc01bdc4}
+      \strng{fullhash}{0e21d46e8b5a0105dbf902b9fc01bdc4}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelyear}{2000}
+      \field{labelyear}{2016}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issue}{3}
-      \field{journaltitle}{Journal of Logic Programming}
-      \field{title}{Improving program analyses by structure untupling}
-      \field{volume}{43}
-      \field{year}{2000}
-      \field{pages}{251\bibrangedash 263}
-      \range{pages}{13}
+      \field{booktitle}{Proceedings of 78th EAGE Conference \& Exhibition 2016}
+      \field{title}{A Fast Iterative Solution of the Time-harmonic Wave Equation with MSSS-preconditioned IDR(s)}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.3997/2214-4609.201601667
+      \endverb
     \endentry
-    \entry{Conway2000}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=0e631663fc0bfbe3faf4b587dbfe9801}{%
-           family={Conway},
-           family_i={C\bibinitperiod},
-           given={Damian},
-           given_i={D\bibinitperiod}}}%
+    \entry{BauHS15}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=65208e6578bb7de220018df8e565bab2}{%
+           family={Baumann},
+           family_i={B\bibinitperiod},
+           given={Manuel},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=bbca3bfb91e38e9e269b6781c0d0401c}{%
+           family={Heiland},
+           family_i={H\bibinitperiod},
+           given={Jan},
+           given_i={J\bibinitperiod}}}%
+        {{uniquename=0,hash=7047d212f80975d90e11f6931e965e13}{%
+           family={Schmidt},
+           family_i={S\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Connecticut, USA}%
+      \name{editor}{5}{}{%
+        {{hash=8a4cdf8b13f7500bf3d444308098cf91}{%
+           family={Benner},
+           family_i={B\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+        {{hash=9583e67f108ab55781674cd3821ccbfe}{%
+           family={Bollhöfer},
+           family_i={B\bibinitperiod},
+           given={Matthias},
+           given_i={M\bibinitperiod}}}%
+        {{hash=1c4e90e33dbca6b98164259f6132aec2}{%
+           family={Kressner},
+           family_i={K\bibinitperiod},
+           given={Daniel},
+           given_i={D\bibinitperiod}}}%
+        {{hash=df4cc7803e50ac2202f60405afc7d7b9}{%
+           family={Mehl},
+           family_i={M\bibinitperiod},
+           given={Christian},
+           given_i={C\bibinitperiod}}}%
+        {{hash=78d8a101f4137e8100120693fc293177}{%
+           family={Stykel},
+           family_i={S\bibinitperiod},
+           given={Tatjana},
+           given_i={T\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Manning Publications Co.}%
+        {Springer International Publishing}%
       }
-      \strng{namehash}{0e631663fc0bfbe3faf4b587dbfe9801}
-      \strng{fullhash}{0e631663fc0bfbe3faf4b587dbfe9801}
+      \strng{namehash}{b3eb2a11c32d6e1651bd88d11992cb7b}
+      \strng{fullhash}{b3eb2a11c32d6e1651bd88d11992cb7b}
       \field{sortinit}{2}
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelyear}{2000}
+      \field{labelyear}{2015}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Object {O}riented {P}erl: {A} comprehensive guide to concepts and programming techniques}
-      \field{year}{2000}
+      \field{booktitle}{Numerical Algebra, Matrix Theory, Differential-Algebraic Equations and Control Theory}
+      \field{title}{Discrete Input/Output Maps and their Relation to Proper Orthogonal Decomposition}
+      \field{year}{2015}
+      \field{pages}{585\bibrangedash 608}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1007/978-3-319-15260-8_21
+      \endverb
     \endentry
-    \entry{Huetal2000}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,hash=78220e67cc87c257a35a493c5786258b}{%
-           family={Hu},
+    \entry{BG15}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=65208e6578bb7de220018df8e565bab2}{%
+           family={Baumann},
+           family_i={B\bibinitperiod},
+           given={Manuel},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=0b3aca9b1e9ec03c2016bfa7cc8c5d20}{%
+           family={Van\bibnamedelima Gijzen},
+           family_i={V\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Martin\bibnamedelima B.},
+           given_i={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e21d46e8b5a0105dbf902b9fc01bdc4}
+      \strng{fullhash}{0e21d46e8b5a0105dbf902b9fc01bdc4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM J. Sci. Comput.}
+      \field{title}{Nested {K}rylov methods for shifted linear systems}
+      \field{volume}{37}
+      \field{year}{2015}
+      \field{pages}{90\bibrangedash 112}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1137/140979927
+      \endverb
+    \endentry
+    \entry{tech1}{report}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=0f4b6c383b17739ca0d159224e7fef01}{%
+           family={Stiller},
+           family_i={S\bibinitperiod},
+           given={Burkhard},
+           given_i={B\bibinitperiod}}}%
+        {{uniquename=0,hash=d4ad7ca3834f80739b440f8ef6ac590b}{%
+           family={Bocek},
+           family_i={B\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{uniquename=0,hash=4e2cd6a0c5851c5eb0d53a6c2ab402f5}{%
+           family={Hecht},
            family_i={H\bibinitperiod},
-           given={J.},
-           given_i={J\bibinitperiod}}}%
-        {{uniquename=0,hash=2c35a6cd5500e52962bb82cce47e7358}{%
-           family={Wu},
+           given={Fabio},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=5255d34eec78c21945082567922499ab}{%
+           family={Machado},
+           family_i={M\bibinitperiod},
+           given={Guilherme},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=1c2996fc9e9fb18171cf3e023a7ddfc8}{%
+           family={Racz},
+           family_i={R\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+        {{uniquename=0,hash=9593c108fc33cf14f6d748dd0860df3d}{%
+           family={Waldburger},
            family_i={W\bibinitperiod},
-           given={H.R.},
-           given_i={H\bibinitperiod}}}%
-        {{uniquename=0,hash=7540c39b4a87f45ffae2ca38ae522d0e}{%
-           family={Jennings},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Zurich, Department of Informatics}%
+      }
+      \strng{namehash}{3cbf776c8db11bb8dd1f2a21fcb3f23d}
+      \strng{fullhash}{73269d8965a96fa18b645f714bccec67}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{extrayear}{1}
+      \field{labelyear}{2010}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{{Mobile Systems IV}}
+      \field{type}{techreport}
+      \field{year}{2010}
+    \endentry
+    \entry{tech2}{report}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=0f4b6c383b17739ca0d159224e7fef01}{%
+           family={Stiller},
+           family_i={S\bibinitperiod},
+           given={Burkhard},
+           given_i={B\bibinitperiod}}}%
+        {{uniquename=0,hash=d4ad7ca3834f80739b440f8ef6ac590b}{%
+           family={Bocek},
+           family_i={B\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{uniquename=0,hash=4e2cd6a0c5851c5eb0d53a6c2ab402f5}{%
+           family={Hecht},
+           family_i={H\bibinitperiod},
+           given={Fabio},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=5255d34eec78c21945082567922499ab}{%
+           family={Machado},
+           family_i={M\bibinitperiod},
+           given={Guilherme},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=1c2996fc9e9fb18171cf3e023a7ddfc8}{%
+           family={Racz},
+           family_i={R\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+        {{uniquename=0,hash=9593c108fc33cf14f6d748dd0860df3d}{%
+           family={Waldburger},
+           family_i={W\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Zurich, Department of Informatics}%
+      }
+      \strng{namehash}{3cbf776c8db11bb8dd1f2a21fcb3f23d}
+      \strng{fullhash}{73269d8965a96fa18b645f714bccec67}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{extrayear}{2}
+      \field{labelyear}{2010}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{{Mobile Systems IV}}
+      \field{type}{techreport}
+      \field{year}{2010}
+    \endentry
+    \entry{tech3}{report}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=0f4b6c383b17739ca0d159224e7fef01}{%
+           family={Stiller},
+           family_i={S\bibinitperiod},
+           given={Burkhard},
+           given_i={B\bibinitperiod}}}%
+        {{uniquename=0,hash=d4ad7ca3834f80739b440f8ef6ac590b}{%
+           family={Bocek},
+           family_i={B\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{uniquename=0,hash=4e2cd6a0c5851c5eb0d53a6c2ab402f5}{%
+           family={Hecht},
+           family_i={H\bibinitperiod},
+           given={Fabio},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=5255d34eec78c21945082567922499ab}{%
+           family={Machado},
+           family_i={M\bibinitperiod},
+           given={Guilherme},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=1c2996fc9e9fb18171cf3e023a7ddfc8}{%
+           family={Racz},
+           family_i={R\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+        {{uniquename=0,hash=9593c108fc33cf14f6d748dd0860df3d}{%
+           family={Waldburger},
+           family_i={W\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Zurich, Department of Informatics}%
+      }
+      \strng{namehash}{3cbf776c8db11bb8dd1f2a21fcb3f23d}
+      \strng{fullhash}{73269d8965a96fa18b645f714bccec67}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{extrayear}{3}
+      \field{labelyear}{2010}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{{Mobile Systems IV}}
+      \field{type}{techreport}
+      \field{year}{2010}
+    \endentry
+    \entry{phdthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=da64d86449dd718132faabded1403d9a}{%
+           family={Joslin},
            family_i={J\bibinitperiod},
-           given={A.},
-           given_i={A\bibinitperiod}}}%
-        {{uniquename=0,hash=298db7fe95de35f7ad8f9a6126e3159b}{%
-           family={Wang},
-           family_i={W\bibinitperiod},
-           given={X.},
-           given_i={X\bibinitperiod}}}%
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The school of the thesis}%
       }
       \list{location}{1}{%
-        {FL, USA}%
+        {The address of the publisher}%
       }
-      \list{publisher}{2}{%
-        {International Institute of Informatics}%
-        {Systemics}%
-      }
-      \strng{namehash}{345ad1e89131df7f8c8b56d3e2b7f769}
-      \strng{fullhash}{27784104085bd1cee6bd2b7707e06187}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelyear}{2000}
+      \strng{namehash}{da64d86449dd718132faabded1403d9a}
+      \strng{fullhash}{da64d86449dd718132faabded1403d9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelyear}{1993}
+      \field{labelmonth}{7}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the World Multiconference on Systemics, Cybernetics and Informatics, (SCI 2000), Florida, USA, 23-26 July 2000}
-      \field{title}{Fast and robust equalization: A case study}
-      \field{year}{2000}
-      \field{pages}{398\bibrangedash 403}
-      \range{pages}{6}
-    \endentry
-    \entry{Meyer2000}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=1c24758d867f50366cc4c583ba87fb79}{%
-           family={Meyer},
-           family_i={M\bibinitperiod},
-           given={Bernd},
-           given_i={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{1c24758d867f50366cc4c583ba87fb79}
-      \strng{fullhash}{1c24758d867f50366cc4c583ba87fb79}
-      \field{sortinit}{2}
-      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
-      \field{labelyear}{2000}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issue}{4}
-      \field{journaltitle}{Applied Artificial Intelligence}
-      \field{title}{A constraint-based framework for diagrammatic reasoning}
-      \field{volume}{14}
-      \field{year}{2000}
-      \field{pages}{327\bibrangedash 344}
-      \range{pages}{18}
+      \field{month}{7}
+      \field{note}{An optional note}
+      \field{title}{The title of the work}
+      \field{type}{phdthesis}
+      \field{year}{1993}
     \endentry
   \endsortlist
 \endrefsection
