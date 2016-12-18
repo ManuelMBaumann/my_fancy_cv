@@ -1,0 +1,189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{ydnt/global/}
+    \entry{zou2013bilingual}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=1fe8a381b066fbffc3aaf33e2166969f}{%
+           family={Zou},
+           family_i={Z\bibinitperiod},
+           given={Will\bibnamedelima Y},
+           given_i={W\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{uniquename=0,hash=d5670b2600fea169724521e252d9d09d}{%
+           family={Socher},
+           family_i={S\bibinitperiod},
+           given={Richard},
+           given_i={R\bibinitperiod}}}%
+        {{uniquename=0,hash=05ec2ae5db5154d27c286a2c542f0236}{%
+           family={Cer},
+           family_i={C\bibinitperiod},
+           given={Daniel\bibnamedelima M},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=1261894eaefc186bfeabf336e05e6294}{%
+           family={Manning},
+           family_i={M\bibinitperiod},
+           given={Christopher\bibnamedelima D},
+           given_i={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7df4400d14f7e32bc19aabacbaada139}
+      \strng{fullhash}{e4c855689bc1b1cc1e51f682a1e5b149}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{EMNLP}
+      \field{title}{Bilingual Word Embeddings for Phrase-Based Machine Translation.}
+      \field{year}{2013}
+      \field{pages}{1393\bibrangedash 1398}
+      \range{pages}{6}
+    \endentry
+    \entry{Codishetal2000}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=0570324271bcfb0fda7a6d2226fa5130}{%
+           family={Codish},
+           family_i={C\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=0ad1d43902e3b4f8f28818668be5305b}{%
+           family={Marriott},
+           family_i={M\bibinitperiod},
+           given={K.},
+           given_i={K\bibinitperiod}}}%
+        {{uniquename=0,hash=51be7f68bd80b19fd636299ec3cc02b2}{%
+           family={Taboch},
+           family_i={T\bibinitperiod},
+           given={C.K.},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{949f2b03443f734d7959473ca70463ab}
+      \strng{fullhash}{949f2b03443f734d7959473ca70463ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3}
+      \field{journaltitle}{Journal of Logic Programming}
+      \field{title}{Improving program analyses by structure untupling}
+      \field{volume}{43}
+      \field{year}{2000}
+      \field{pages}{251\bibrangedash 263}
+      \range{pages}{13}
+    \endentry
+    \entry{Conway2000}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0e631663fc0bfbe3faf4b587dbfe9801}{%
+           family={Conway},
+           family_i={C\bibinitperiod},
+           given={Damian},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Connecticut, USA}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications Co.}%
+      }
+      \strng{namehash}{0e631663fc0bfbe3faf4b587dbfe9801}
+      \strng{fullhash}{0e631663fc0bfbe3faf4b587dbfe9801}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Object {O}riented {P}erl: {A} comprehensive guide to concepts and programming techniques}
+      \field{year}{2000}
+    \endentry
+    \entry{Huetal2000}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=78220e67cc87c257a35a493c5786258b}{%
+           family={Hu},
+           family_i={H\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{uniquename=0,hash=2c35a6cd5500e52962bb82cce47e7358}{%
+           family={Wu},
+           family_i={W\bibinitperiod},
+           given={H.R.},
+           given_i={H\bibinitperiod}}}%
+        {{uniquename=0,hash=7540c39b4a87f45ffae2ca38ae522d0e}{%
+           family={Jennings},
+           family_i={J\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{uniquename=0,hash=298db7fe95de35f7ad8f9a6126e3159b}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={X.},
+           given_i={X\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {FL, USA}%
+      }
+      \list{publisher}{2}{%
+        {International Institute of Informatics}%
+        {Systemics}%
+      }
+      \strng{namehash}{345ad1e89131df7f8c8b56d3e2b7f769}
+      \strng{fullhash}{27784104085bd1cee6bd2b7707e06187}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the World Multiconference on Systemics, Cybernetics and Informatics, (SCI 2000), Florida, USA, 23-26 July 2000}
+      \field{title}{Fast and robust equalization: A case study}
+      \field{year}{2000}
+      \field{pages}{398\bibrangedash 403}
+      \range{pages}{6}
+    \endentry
+    \entry{Meyer2000}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1c24758d867f50366cc4c583ba87fb79}{%
+           family={Meyer},
+           family_i={M\bibinitperiod},
+           given={Bernd},
+           given_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c24758d867f50366cc4c583ba87fb79}
+      \strng{fullhash}{1c24758d867f50366cc4c583ba87fb79}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Applied Artificial Intelligence}
+      \field{title}{A constraint-based framework for diagrammatic reasoning}
+      \field{volume}{14}
+      \field{year}{2000}
+      \field{pages}{327\bibrangedash 344}
+      \range{pages}{18}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
