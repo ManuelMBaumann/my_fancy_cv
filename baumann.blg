@@ -1,15 +1,15 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [1] Config.pm:346> INFO - Logfile is 'baumann.blg'
-[67] biber:290> INFO - === So Dez 18, 2016, 15:50:02
-[197] Biber.pm:352> INFO - Reading 'baumann.bcf'
-[418] Biber.pm:774> INFO - Using all citekeys in bib section 0
-[437] Biber.pm:3494> INFO - Processing section 0
-[454] Biber.pm:3658> INFO - Looking for bibtex format file 'sample.bib' for section 0
-[471] bibtex.pm:1176> INFO - Decoding LaTeX character macros into UTF-8
-[487] bibtex.pm:1037> INFO - Found BibTeX data source 'sample.bib'
-[572] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[572] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[572] Biber.pm:3307> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[572] Biber.pm:3311> INFO - No sort tailoring available for locale 'en-US'
-[589] bbl.pm:526> INFO - Writing 'baumann.bbl' with encoding 'UTF-8'
-[645] bbl.pm:619> INFO - Output to baumann.bbl
+[88] biber:290> INFO - === Mi Dez 21, 2016, 22:03:51
+[322] Biber.pm:352> INFO - Reading 'baumann.bcf'
+[521] Biber.pm:774> INFO - Using all citekeys in bib section 0
+[538] Biber.pm:3494> INFO - Processing section 0
+[704] Biber.pm:3658> INFO - Looking for bibtex format file 'sample.bib' for section 0
+[749] bibtex.pm:1176> INFO - Decoding LaTeX character macros into UTF-8
+[763] bibtex.pm:1037> INFO - Found BibTeX data source 'sample.bib'
+[909] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[909] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[910] Biber.pm:3307> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[910] Biber.pm:3311> INFO - No sort tailoring available for locale 'en-US'
+[920] bbl.pm:526> INFO - Writing 'baumann.bbl' with encoding 'UTF-8'
+[964] bbl.pm:619> INFO - Output to baumann.bbl

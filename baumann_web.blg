@@ -1,0 +1,15 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[1] Config.pm:346> INFO - Logfile is 'baumann_web.blg'
+[67] biber:290> INFO - === Mi Dez 21, 2016, 22:03:57
+[212] Biber.pm:352> INFO - Reading 'baumann_web.bcf'
+[409] Biber.pm:774> INFO - Using all citekeys in bib section 0
+[427] Biber.pm:3494> INFO - Processing section 0
+[442] Biber.pm:3658> INFO - Looking for bibtex format file 'sample.bib' for section 0
+[461] bibtex.pm:1176> INFO - Decoding LaTeX character macros into UTF-8
+[475] bibtex.pm:1037> INFO - Found BibTeX data source 'sample.bib'
+[543] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[543] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[543] Biber.pm:3307> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[544] Biber.pm:3311> INFO - No sort tailoring available for locale 'en-US'
+[553] bbl.pm:526> INFO - Writing 'baumann_web.bbl' with encoding 'UTF-8'
+[598] bbl.pm:619> INFO - Output to baumann_web.bbl
